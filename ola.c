@@ -2,7 +2,7 @@
 
 int main()
 {
-   printf("\nBoa noite");
+   printf("\nBoa noite alunos!");
    printf("\nOla pessoal!");
    
    return 0;
